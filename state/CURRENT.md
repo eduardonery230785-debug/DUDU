@@ -1,6 +1,7 @@
 # Estado atual
-Objetivo: manter a fundação documental auditada e refletir as correções confirmadas pelo criador.
-Escopo vigente: correções documentais aprovadas nesta conversa e salvamento no GitHub eduardonery230785-debug/DUDU conforme autorização anterior; demais ações dependem de autorização concreta.
-Situação: P0 documental concluído; sete critérios documentais passaram na auditoria. Aplicadas as três correções confirmadas: atualização deste estado, encerramento da verificação do envio inicial e esclarecimento do escopo histórico em AUTHORITY. Evidência: evidence/FOUNDATION_CHECK.md. A execução em outro harness permanece NÃO VERIFICADA.
-Pendências: confirmar {{NOME_AGENTE}}, {{APELIDO}} e {{RESPONSABILIDADE}} antes da personalização. Identidade preservada.
-Próximo passo: obter os campos do formulário quando o criador desejar personalizar o agente; para testar portabilidade, executar WAKE manualmente em outro harness e registrar evidência real. Em retomadas, conferir novamente o estado e a autorização vigente.
+Objetivo: orientar uma pesquisa sobre integração de plataforma própria com marketplaces, sincronizando estoque e lançamentos que alimentam a DRE.
+Escopo vigente: pergunta aprovada em research/QUESTION.md; registro documental e salvamento no GitHub DUDU autorizados. Integração, acesso a dados reais e lançamentos operacionais não fazem parte desta etapa.
+Situação: pergunta aprovada e registrada; pesquisa e implementação ainda não executadas. Fundação documental auditada; retomada em outro harness permanece NÃO VERIFICADA.
+Pendências: definir marketplaces, características técnicas da plataforma e critérios contábeis antes de avaliar compatibilidade. Nome, apelido e responsabilidade específica do agente continuam pendentes; identidade preservada.
+Próximo passo: quando iniciada a pesquisa, delimitar os sistemas envolvidos e consultar fontes oficiais conforme QUESTION e SOURCES, sem solicitar credenciais. Não tratar viabilidade como confirmada.
+Privacidade: feedback privado da microentrevista não integra os arquivos nem relatório coletivo; registrar somente o objetivo aprovado.

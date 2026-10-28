@@ -20,3 +20,8 @@ Depois: criado evidence/FOUNDATION_CHECK.md; sete critérios documentais passara
 Antes: criador confirmou as três correções propostas; escopo restrito a CURRENT, encerramento da persistência e esclarecimento histórico em AUTHORITY. Versões anteriores preservadas em archive/antes-correcoes-foundation-18ae46b/.
 Durante: consulta remota confirmou main em 18ae46bda4f7e152216974eb9e1a8e73be13263a. Verificação local de ancestralidade confirmou que esse commit contém 01ecd78d3c7a44e2ef5085b6ac8738ff06092ee5, encerrando a pendência de verificação do envio inicial. O registro original foi preservado.
 Depois: três correções aplicadas; versões anteriores preservadas; identidade inalterada. Conferência local e envio ao GitHub serão verificados antes da conclusão ao criador.
+
+## 28/10/2026 — Pergunta de pesquisa aprovada
+Antes: aluno aprovou explicitamente a pergunta proposta e seu registro local e no GitHub DUDU. Registrar apenas objetivo aprovado, sem feedback privado da microentrevista ou identificadores pessoais adicionais. Versões anteriores preservadas em archive/antes-pergunta-pesquisa-0c4067e/.
+Durante: criação de research/QUESTION.md com tema, pergunta, limites e fontes aceitáveis; atualização de CURRENT. Sem conexão a marketplaces, acesso a dados operacionais ou pesquisa externa nesta etapa.
+Depois: pergunta registrada; estado e sessão atualizados. Conferência de leitura local e envio ao GitHub devem ser concluídos antes de informar sucesso. Pesquisa e integração não foram executadas.
