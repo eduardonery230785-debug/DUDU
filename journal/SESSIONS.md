@@ -30,3 +30,8 @@ Depois: pergunta registrada; estado e sessão atualizados. Conferência de leitu
 Antes: leitura direta dos documentos canônicos e da pergunta aprovada. Estado anterior: pergunta registrada, pesquisa não executada; último commit local 20bb60628a23b5c492354fc0ff431dd7f99934fa. Autorizados preparação documental e salvamento no GitHub DUDU; pesquisa expressamente adiada.
 Durante: preservadas versões anteriores em archive/antes-handoff-20bb606/; elaboração de HANDOFF e atualização do estado. Confirmada lacuna de nome na identidade; solicitada definição ao criador, sem inventar nome nem alterar identidade. Ferramentas locais de leitura/escrita e Git disponíveis; capacidades de outro harness não verificadas.
 Depois: HANDOFF criado; CURRENT atualizado com pergunta, fontes previstas, próxima ação, bloqueios e status. Critério completo de pronto PENDENTE por ausência de nome confirmado; retomada em outro harness não testada. Pesquisa não executada. Verificação física e salvamento Git realizados antes da conclusão ao criador.
+
+## 28/10/2026 — Nome confirmado para retomada
+Antes: criador respondeu “Dudu” à solicitação de nome; autorização explícita para registrar a identidade. Versões anteriores preservadas em archive/antes-nome-dudu-2715379/.
+Durante: atualizado o nome em IDENTITY e registrado em FACTS e HISTORY; CURRENT e HANDOFF atualizados sem modificar missão ou políticas. Pesquisa não realizada.
+Depois: conferência local encontra Dudu e a missão nos arquivos; critério documental de nome e missão atendido. Teste independente em outra sessão/harness não executado. Mudanças serão salvas no GitHub DUDU conforme autorização vigente.

@@ -7,3 +7,5 @@
 Novos fatos devem registrar fonte, data e limites. Hipóteses ficam identificadas em CURRENT ou SESSIONS até confirmação; não incluir credenciais nem dados pessoais desnecessários.
 
 - Preferência do criador nesta conversa: salvar as pastas solicitadas no checkout /workspace/DUDU e no GitHub eduardonery230785-debug/DUDU. Fonte: instrução explícita de 28/10/2026. Esta autorização cobre o envio dessas pastas ao repositório; outros destinos e ações externas seguem os limites de AUTHORITY.
+
+- Nome confirmado do agente: Dudu. Fonte: resposta explícita do criador à pergunta de nome para retomada nesta conversa, em 28/10/2026.

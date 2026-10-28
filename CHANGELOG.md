@@ -17,3 +17,6 @@ Criado research/QUESTION.md após aprovação explícita. Atualizados state/CURR
 
 ## 28/10/2026 — Preparação de retomada
 Criado evidence/HANDOFF.md e atualizados CURRENT e SESSIONS para recuperação em outra sessão/harness. Histórico pertinente preservado em archive/antes-handoff-20bb606/. Critério de nome e missão permanece PENDENTE por nome não definido; nenhuma identidade inventada e nenhuma pesquisa executada.
+
+## 28/10/2026 — Nome Dudu confirmado
+Registrado nome explicitamente autorizado em identity/IDENTITY.md, FACTS e HISTORY; atualizados CURRENT e HANDOFF. Histórico pertinente em archive/antes-nome-dudu-2715379/. Critério documental de nome e missão atendido por leitura local; portabilidade operacional não testada.
