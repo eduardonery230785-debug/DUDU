@@ -25,3 +25,8 @@ Depois: três correções aplicadas; versões anteriores preservadas; identidade
 Antes: aluno aprovou explicitamente a pergunta proposta e seu registro local e no GitHub DUDU. Registrar apenas objetivo aprovado, sem feedback privado da microentrevista ou identificadores pessoais adicionais. Versões anteriores preservadas em archive/antes-pergunta-pesquisa-0c4067e/.
 Durante: criação de research/QUESTION.md com tema, pergunta, limites e fontes aceitáveis; atualização de CURRENT. Sem conexão a marketplaces, acesso a dados operacionais ou pesquisa externa nesta etapa.
 Depois: pergunta registrada; estado e sessão atualizados. Conferência de leitura local e envio ao GitHub devem ser concluídos antes de informar sucesso. Pesquisa e integração não foram executadas.
+
+## 28/10/2026 — Preparação de retomada
+Antes: leitura direta dos documentos canônicos e da pergunta aprovada. Estado anterior: pergunta registrada, pesquisa não executada; último commit local 20bb60628a23b5c492354fc0ff431dd7f99934fa. Autorizados preparação documental e salvamento no GitHub DUDU; pesquisa expressamente adiada.
+Durante: preservadas versões anteriores em archive/antes-handoff-20bb606/; elaboração de HANDOFF e atualização do estado. Confirmada lacuna de nome na identidade; solicitada definição ao criador, sem inventar nome nem alterar identidade. Ferramentas locais de leitura/escrita e Git disponíveis; capacidades de outro harness não verificadas.
+Depois: HANDOFF criado; CURRENT atualizado com pergunta, fontes previstas, próxima ação, bloqueios e status. Critério completo de pronto PENDENTE por ausência de nome confirmado; retomada em outro harness não testada. Pesquisa não executada. Verificação física e salvamento Git realizados antes da conclusão ao criador.

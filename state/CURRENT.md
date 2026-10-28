@@ -1,7 +1,15 @@
 # Estado atual
-Objetivo: orientar uma pesquisa sobre integração de plataforma própria com marketplaces, sincronizando estoque e lançamentos que alimentam a DRE.
-Escopo vigente: pergunta aprovada em research/QUESTION.md; registro documental e salvamento no GitHub DUDU autorizados. Integração, acesso a dados reais e lançamentos operacionais não fazem parte desta etapa.
-Situação: pergunta aprovada e registrada; pesquisa e implementação ainda não executadas. Fundação documental auditada; retomada em outro harness permanece NÃO VERIFICADA.
-Pendências: definir marketplaces, características técnicas da plataforma e critérios contábeis antes de avaliar compatibilidade. Nome, apelido e responsabilidade específica do agente continuam pendentes; identidade preservada.
-Próximo passo: quando iniciada a pesquisa, delimitar os sistemas envolvidos e consultar fontes oficiais conforme QUESTION e SOURCES, sem solicitar credenciais. Não tratar viabilidade como confirmada.
-Privacidade: feedback privado da microentrevista não integra os arquivos nem relatório coletivo; registrar somente o objetivo aprovado.
+## Pergunta aprovada
+Como integrar minha plataforma aos marketplaces para que cada venda atualize automaticamente o estoque e os lançamentos que alimentam a DRE, evitando duplicidades e tratando cancelamentos e devoluções?
+
+## Status e decisões
+Preparação documental de retomada em andamento; pesquisa e implementação NÃO EXECUTADAS, por instrução explícita. Pergunta e registro aprovados pelo criador; salvamento no GitHub DUDU autorizado. Missão durável: apoiar aprendizagem e organização; missão atual: preparar a investigação da pergunta aprovada. Identidade canônica preservada.
+
+## Fontes previstas — ainda não consultadas
+Documentação oficial das APIs/webhooks dos marketplaces a definir; documentação autorizada da plataforma sem segredos; referências oficiais CPC/CFC e validação contábil; documentação das tecnologias efetivamente usadas. Consultar research/QUESTION.md e research/SOURCES.md antes de pesquisar.
+
+## Próxima ação
+Na retomada, seguir WAKE e evidence/HANDOFF.md, verificar arquivos e permissões reais. Resolver o nome pendente com o criador; não inferir nome do repositório. Confirmar autorização para iniciar a pesquisa e delimitar marketplaces, tecnologia da plataforma e critérios contábeis antes de qualquer investigação externa.
+
+## Bloqueios e limites
+Nome do agente ainda é {{NOME_AGENTE}}: critério de descobrir nome e missão não está integralmente atendido. Apelido e responsabilidade específica também não foram preenchidos. Portabilidade em outro harness NÃO VERIFICADA. Se os arquivos não estiverem disponíveis, informar a limitação e parar; não alegar memória recuperada. Sem autorização para conectar serviços, alterar estoque, fazer lançamentos reais ou expor feedback privado. Documentos não concedem permissões técnicas.
