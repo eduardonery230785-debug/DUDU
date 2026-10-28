@@ -5,3 +5,6 @@ A identidade mantém três campos pendentes do formulário. A verificação fís
 
 ## 28/10/2026 — Persistência
 Registrada autorização para salvar pastas desta conversa no repositório DUDU. Adicionados .gitkeep em archive/ e outputs/ para preservação no Git.
+
+## 28/10/2026 — Auditoria da fundação
+Adicionado evidence/FOUNDATION_CHECK.md com trechos dos nove arquivos lidos, sete critérios avaliados e propostas mínimas pendentes de confirmação. Acrescentado registro de sessão; identidade e políticas inalteradas.

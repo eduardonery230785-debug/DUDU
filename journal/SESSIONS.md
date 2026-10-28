@@ -10,3 +10,8 @@ Nas próximas sessões, acrescente objetivo, decisões, arquivos alterados, evid
 Antes: criador autorizou salvar no GitHub as pastas solicitadas nesta conversa.
 Durante: registrada a preferência e adicionados marcadores .gitkeep para preservar archive/ e outputs/ vazias no Git.
 Depois: consultar o commit e a referência remota para confirmar o envio; não presumir sucesso apenas pela criação local.
+
+## 28/10/2026 — Auditoria da fundação
+Antes: conferir os nove documentos solicitados diretamente no disco, sem alterar identidade ou políticas; criar evidence/FOUNDATION_CHECK.md.
+Durante: leitura integral realizada; comparados contratos de entrada, retomada, separação de funções, registros e limites de autoridade. Encontradas pendências de atualização de estado e de encerramento do registro de envio anterior; correções dependem de confirmação.
+Depois: criado evidence/FOUNDATION_CHECK.md; sete critérios documentais passaram. Lacunas descritas sem aplicar correções; identidade e políticas preservadas. A leitura final do relatório verifica a escrita.
