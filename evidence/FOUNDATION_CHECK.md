@@ -35,3 +35,19 @@ Os nove documentos foram abertos e lidos integralmente por ferramenta local. Os 
 | memory/FACTS.md | f8609dffa843611160602cb3a05e9c95f5af0be5a3a818a61b6210b63e83dfef |
 | journal/SESSIONS.md | 4992b43bd271d3513c5d905e23b5ff10b2ae9827998094ba325481e978903615 |
 | CHANGELOG.md | 6f3d3c537ada94504c315629dbeafa455132ce57f69e231e8847cc63a671be5c |
+
+## Adendo — correções confirmadas e aplicadas em 28/10/2026
+A seção de lacunas e os hashes anteriores retratam a auditoria original, preservada integralmente. Após a confirmação explícita “confirmo” do criador, foram aplicadas as três correções propostas:
+- CURRENT agora descreve a fundação auditada, as correções e as pendências reais.
+- SESSIONS acrescenta o encerramento da verificação do envio inicial. Nova consulta ao GitHub retornou main em 18ae46bda4f7e152216974eb9e1a8e73be13263a; `git merge-base --is-ancestor` confirmou que 01ecd78d3c7a44e2ef5085b6ac8738ff06092ee5 integra esse histórico, com código de saída zero.
+- AUTHORITY agora informa: “O escopo original do bootstrap documental local em /workspace/DUDU é um registro histórico. Novas tarefas dependem da autorização concreta vigente do criador; este documento não concede novas autorizações.” Os demais limites foram mantidos.
+
+Versões anteriores dos cinco documentos alterados estão em archive/antes-correcoes-foundation-18ae46b/. Identidade não foi alterada. Os sete resultados documentais permanecem PASSOU; isso não comprova execução em outro harness, que continua NÃO VERIFICADA. As três lacunas propostas estão resolvidas nesta versão.
+
+### Hashes após as correções
+| Arquivo | SHA-256 |
+|---|---|
+| state/CURRENT.md | 8b4b25c44bc8bc708f4f9b3624b72537d6304f25b4d814f2cb097f63693fb60e |
+| governance/AUTHORITY.md | 91067166861846ba8675b3108c12eaf2594dab234cec2563e570a0ba2cf115e5 |
+| journal/SESSIONS.md | 451152824fa5b1080a3c745b971f359d1dec23b70e7eb24df76bae852a97a0c4 |
+| CHANGELOG.md | 9bb42dffa0a786ee1ab5772d4cfa905df549968c3bf949407d6061b227252ba9 |

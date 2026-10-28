@@ -1,6 +1,6 @@
 # Estado atual
-Objetivo: concluir o P0 documental solicitado, na raiz /workspace/DUDU.
-Escopo: criar documentos e pastas locais; sem scripts ou ações externas.
-Situação: P0 CONCLUÍDO; os 13 documentos obrigatórios e as três pastas foram verificados fisicamente. Evidência: evidence/P0-CHECK.md.
-Pendências: confirmar {{NOME_AGENTE}}, {{APELIDO}} e {{RESPONSABILIDADE}} quando necessário para personalização. Não bloqueiam a criação da base documental.
-Próximo passo: confirmar os campos do formulário antes da personalização da identidade. Em retomadas, conferir novamente o estado real antes de reutilizar uma conclusão anterior.
+Objetivo: manter a fundação documental auditada e refletir as correções confirmadas pelo criador.
+Escopo vigente: correções documentais aprovadas nesta conversa e salvamento no GitHub eduardonery230785-debug/DUDU conforme autorização anterior; demais ações dependem de autorização concreta.
+Situação: P0 documental concluído; sete critérios documentais passaram na auditoria. Aplicadas as três correções confirmadas: atualização deste estado, encerramento da verificação do envio inicial e esclarecimento do escopo histórico em AUTHORITY. Evidência: evidence/FOUNDATION_CHECK.md. A execução em outro harness permanece NÃO VERIFICADA.
+Pendências: confirmar {{NOME_AGENTE}}, {{APELIDO}} e {{RESPONSABILIDADE}} antes da personalização. Identidade preservada.
+Próximo passo: obter os campos do formulário quando o criador desejar personalizar o agente; para testar portabilidade, executar WAKE manualmente em outro harness e registrar evidência real. Em retomadas, conferir novamente o estado e a autorização vigente.
